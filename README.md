@@ -39,4 +39,19 @@ searchhost.exe,syshelpers.exe,nat.vbs,runsys.vbs__ <br>
 Next question was really tricky for me because I am not yet familiar with the different malware family names. So I found it on the original VirusTotal Website. Go there and put the flagged IP into the search bar. In the Relations Tab you'll find Communication Files. I chose one of them and bam! <br>
 <img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q6.png" /> <br>
 __Question 6: Analyse the files related to the flagged IP. What is the malware family that links these files? <br>
-asyncrat__ 
+asyncrat__ <br>
+<br>
+For the next one - as indicated - use google and look for she hash. For me it was the [first entry](https://research.checkpoint.com/2025/from-trust-to-threat-hijacked-discord-invites-used-for-multi-stage-malware-delivery/):<br>
+__Question 7: What is the title of the original report where these flagged indicators are mentioned? Use Google to find the report.<br>
+From Trust to Threat: Hijacked Discord Invites Used for Multi-Stage Malware Delivery__ <br>
+<br>
+If you read the article you'll find the answers to the next questions! <br>
+__Question 8: Which tool did the attackers use to steal cookies from the Google Chrome browser?<br>
+ChromeKatz__ <br>
+__Question 9: Which phishing technique did the attackers use? Use the report to answer the question.<br>
+ClickFix__ <br>
+__Question 10: What is the name of the platform that was used to redirect a user to malicious servers?<br>
+Discord__ <br>
+<br>
+<br>
+## That's it for today and another room to slay! 
