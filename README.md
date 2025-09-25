@@ -32,5 +32,10 @@ Aclient.exe__ <br>
 <br>
 For question 5, copy the second hash of question 3 into the search bar and go to Relations again. There you'll find 20 dropped files and 4 of them are malicious ones and the answer! <br>
 <img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q5.png" /> <br>
-__Question 4: Research the second hash in question 3 and list the four malicious dropped files in the order they appear (from up to down), separated by commas. <br>
-searchhost.exe,syshelpers.exe,nat.vbs,runsys.vbs__ 
+__Question 5: Research the second hash in question 3 and list the four malicious dropped files in the order they appear (from up to down), separated by commas. <br>
+searchhost.exe,syshelpers.exe,nat.vbs,runsys.vbs__ <br>
+<br>
+Next question was really tricky for me because I am not yet familiar with the different malware family names. So I found it on the original VirusTotal Website. Go there and put the flagged IP into the search bar. In the Relations Tab you'll find Communication Files. I chose one of them and bam! <br>
+<img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q6.png" /> <br>
+__Question 6: Analyse the files related to the flagged IP. What is the malware family that links these files? <br>
+asyncrat__ 
