@@ -29,3 +29,8 @@ __Question 3: What are the execution parents of the flagged hash? List the names
 361GJX7J,installer.exe__ <br>
 __Question 4: What is the name of the file being dropped? Note down the hash value for later use. <br>
 Aclient.exe__ <br>
+<br>
+For question 5, copy the second hash of question 3 into the search bar and go to Relations again. There you'll find 20 dropped files and 4 of them are malicious ones and the answer! <br>
+<img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q5.png" /> <br>
+__Question 4: Research the second hash in question 3 and list the four malicious dropped files in the order they appear (from up to down), separated by commas. <br>
+searchhost.exe,syshelpers.exe,nat.vbs,runsys.vbs__ 
