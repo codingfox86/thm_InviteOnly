@@ -15,4 +15,17 @@ Connecting To The Machine<br>
 Just start the Virtual Machine by clicking “Start Virtual Machine.” Once the VM is booted up, double-click the launcher on the desktop to start the TryDetectThis2.0 application.<br>
 
 Ok folks, let's dive in and start their own [Virus Total Version](https://www.virustotal.com/) you see on the desktop of your VM and running on localhost. <br>
-
+<br>
+Put in the given hash and you'll find the answers for Question 1 and 2. 
+<img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q1.png" /> <br>
+__Question 1: What is the name of the file identified with the flagged SHA256 hash? <br>
+syshelpers.exe__ <br>
+__Question 2: What is the file type associated with the flagged SHA256 hash? <br>
+WIN32 EXE__ <br>
+<br>
+For question 3 and 4 click on Relations! And don't forget to copy the hashes :) <br>
+<img src="https://github.com/codingfox86/thm_InviteOnly/blob/main/q3.png" /> <br>
+__Question 3: What are the execution parents of the flagged hash? List the names chronologically, using a comma as a separator. Note down the hashes for later use.<br>
+361GJX7J,installer.exe__ <br>
+__Question 4: What is the name of the file being dropped? Note down the hash value for later use. <br>
+Aclient.exe__ <br>
